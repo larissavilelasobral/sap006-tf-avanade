@@ -7,10 +7,10 @@ Projeto realizado no Hackathon realizado durante o Talent Fest da [Laboratoria.l
 #### Desafio idealizado pela empresa [Avanade](https://www.avanade.com/pt-br)
 
 Com objetivo de criar uma aplicação utilizando reconhecimento facial pra verificar se um usuário está usando a máscara de forma correta😷 e também verificar através do QR Code📲 do Certificado de Vacinação do SUS se o usuário está com as duas doses da vacina de Covid 19.💉💉
-
+________________
 ![gif](https://media-exp1.licdn.com/dms/image/C4E22AQFHRZpHf2_V3Q/feedshare-shrink_800/0/1636676920049?e=1642032000&v=beta&t=46K86na3S6f2MbEiRIuZLJJgQbQ6-SOmlRp6VpkRGTA
 )
-
+__________________
 ### Autores 🔥
 ***Larissa Vilela,
 Mayara Bezerra,
